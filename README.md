@@ -92,11 +92,11 @@ keil ESP_SDK Visual Studio Code Github
 
 项目分工：
 
-胡夏南：项目进度总管、软件架构、服务器架构、测试
+xxx：项目进度总管、软件架构、服务器架构、测试
 
-喻哲文：硬件总体设计、电源管理设计，Homekit接入，测试
+xxx：硬件总体设计、电源管理设计，Homekit接入，测试
 
-李烁程：web、Android前端开发，数据分析，测试，文案
+xxx：web、Android前端开发，数据分析，测试，文案
 
 ## 学校可以提供的条件
 
